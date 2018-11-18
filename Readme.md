@@ -16,5 +16,9 @@ In this tab, all the support offered by Chrome developer console is available fo
 
 Use `Toggle Element Inspector` from expo debug options to enable to GUI inspector inside your app.
 
+### React Native Layout
 
+- [Introduction to Flexbox for React Native](https://facebook.github.io/react-native/docs/flexbox)
+
+- [Game to get more familiarity with Flexbox](https://flexboxfroggy.com/)
 
